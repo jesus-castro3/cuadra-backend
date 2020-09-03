@@ -1,0 +1,26 @@
+{
+  "name": "cuadra-backend",
+  "version": "1.0.0",
+  "description": "Management app for your neighboring community",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesus-castro3/cuadra-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesus-castro3/cuadra-backend/issues"
+  },
+  "homepage": "https://github.com/jesus-castro3/cuadra-backend#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "express": "^4.16.4",
+    "google-spreadsheet": "^2.0.7",
+    "mysql2": "^1.6.4",
+    "sequelize": "^4.41.1"
+  }
+}
